@@ -1,5 +1,5 @@
 FROM resin/rpi-raspbian
-MAINTAINER JunkCryptoBytes <vithar@vithar.me>
+MAINTAINER VitharMe <vithar@vithar.me>
 
 RUN export DEBIAN_FRONTEND=noninteractive && \
     apt-get update -y -q && \
